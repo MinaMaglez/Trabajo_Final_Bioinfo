@@ -44,10 +44,12 @@ Para la obtención de las F~ST~ pareadas se utilizaron también las librerías d
 
 Podemos observar que entre todas las poblaciones existe una muy marcada estructura genética, siendo de las más altas la que hay entre Isla San Nicolás con el resto de las islas. Esto probablemente se deba a que Isla San Nicolás es de las islas más pequeñas y de las más alejadas, además que Funk *et al* (2016)  reportan que la densidad de esta población es menor a las otras ** (Figura 1)**.
 
+![](https://github.com/MinaMaglez/Trabajo_Final_Bioinfo/blob/master/Urocyon_sp/Imagenes/fox_localidades.png)
 **Figura 1**. Mapa de localidades en las que se obtuvieron las muestras analizadas.
 
 Para hacer el Análisis de componentes principales con discriminantes (DAPC) se utilizó la librería de R *adegenet*. Para este análisis también incluimos tanto a las zorras insulares como a las zorras grises **(Figura 2)**.
 
+![](https://github.com/MinaMaglez/Trabajo_Final_Bioinfo/blob/master/Urocyon_sp/Imagenes/fox_DAPC.png)
 **Figura 2**. DAPC de las 6 poblaciones de zorras insulares y la población de zorras grises.
 
 En el DACP podemos observar que los resultados no son del todo congruentes con los obtenidos por el análisis de las F~ST~ pareadas. Aunque obtuvimos que en efecto existe una clara estructuración genética de las poblaciones, en esta ocasión la población más separada de las demás fue la de zorras grises, y la población de Isla San Nicolás está muy cercana a la población de Isla Santa Catalina. 
