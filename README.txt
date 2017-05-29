@@ -4,6 +4,9 @@ Análisis genético del complejo de especies Urocyon littoralis, los datos se ob
 Funk et. al., 2016 para seis poblaciones de zorras isleñas (Urocyon littoralis) y una de 
 zorras grises (Urocyon cinereoargenteus)
 
+En el archivo "Análisis genético del complejo Urocyon littoralis.md" se encuentra un escrito 
+de una breve descripción y discusión de los resultados obtenidos
+
 ID de las poblaciones analisadas 
 	- gray = zorras grises del sur de California (continente) 
 	- smi = zorras isleñas de la Isla San Miguel 
