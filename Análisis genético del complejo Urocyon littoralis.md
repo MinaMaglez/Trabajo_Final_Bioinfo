@@ -1,6 +1,6 @@
 **Análisis genético del complejo de especies _Urocyon littoralis_**
 
-####*Carmina Martínez Gonzalez*####
+*Carmina Martínez Gonzalez*
 
 **Resumen**
 
