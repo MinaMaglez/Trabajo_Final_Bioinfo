@@ -1,6 +1,6 @@
-**Análisis genético del complejo de especies _Urocyon littoralis_**
+# **Análisis genético del complejo de especies _Urocyon littoralis_**
 
-*Carmina Martínez Gonzalez*
+###### *Carmina Martínez Gonzalez*
 
 **Resumen**
 
@@ -35,12 +35,12 @@ Para la obtención de las F~ST~ pareadas se utilizaron también las librerías d
 **Cuadro 2.** Resultados de la F~ST~ pareada para las poblaciones de zorras insulares y la de zorra gris.
 
 |--------| **Grey** | **Smi** | **Sri** | **Sci** | **Sca** | **Scl** |
-|--------|--------|--------|--------|--------|--------|
-| **Smi** |0.524|
-| **Sri** |0.402|0.373|
-| **Sci** | 0.438|0.624|0.398|
-|**Sca** | 0.254|0.471|0.382|0.348|
-|**Scl** | 0.490|0.775|0.598|0.628|0.260|
+|--------|--------|--------|--------|--------|--------|--------|
+| **Smi** |0.524|--------|--------|--------|--------|--------|
+| **Sri** |0.402|0.373|--------|--------|--------|--------|
+| **Sci** | 0.438|0.624|0.398|--------|--------|--------|
+|**Sca** | 0.254|0.471|0.382|0.348|--------|--------|
+|**Scl** | 0.490|0.775|0.598|0.628|0.260|--------|
 |**Sni** |0.624|0.900|0.795|0.826|0.423|0.770|
 
 Podemos observar que entre todas las poblaciones existe una muy marcada estructura genética, siendo de las más altas la que hay entre Isla San Nicolás con el resto de las islas. Esto probablemente se deba a que Isla San Nicolás es de las islas más pequeñas y de las más alejadas, además que Funk *et al* (2016)  reportan que la densidad de esta población es menor a las otras ** (Figura 1)**.
