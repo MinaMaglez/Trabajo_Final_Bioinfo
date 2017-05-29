@@ -63,3 +63,5 @@ Directorio de Urocyon_sp:
 		
 		DAPC.R ------------------> Script para hacer el análisis de componentes principales con 
 		dsicriminantes para las seis poblaciones de zorras insulares y la poblacion de zorras grises
+		
+		
