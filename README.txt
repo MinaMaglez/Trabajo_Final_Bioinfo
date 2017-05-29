@@ -1,4 +1,4 @@
-# Trabajo_Final_Bioinformatica
+README
 
 Análisis genético del complejo de especies Urocyon littoralis, los datos se obtuvieron de Funk et. al., 2016 para seis poblaciones de zorras isleñas (Urocyon littoralis) y una de zorras grises (Urocyon cinereoargenteus)
 
